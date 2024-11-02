@@ -4,7 +4,8 @@
     images: {
       unoptimized: true
     },
-    basePath: '/photographer-portfolio'
+    basePath: '/photographer-portfolio',
+    assetPrefix: '/photographer-portfolio/',
   }
 
   module.exports = nextConfig
